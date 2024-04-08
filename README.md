@@ -7,13 +7,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AbdullahHamadax&theme=darkhub" alt="AbdullahHamadax" /></a> </p>
 
 
-<div align="center">
 - 🔭 I’m currently working on **Web Projects**
 - 🌱 I’m currently learning **Web Development**
 - 💬 Ask me about **Tech**
 - ⚡ Fun fact **C++ is horrible**
 - 🔧 I'll keep updating this README whenever I learn new tech
-</div>
 
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
