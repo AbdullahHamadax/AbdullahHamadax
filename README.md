@@ -1,5 +1,7 @@
  <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AbdullahHamadax&theme=darkhub" alt="AbdullahHamadax" /></a> </p>
+
 - 🔭 I’m currently working on **Web Projects**
 - 🌱 I’m currently learning **Web Development**
 - 💬 Ask me about **Tech**
