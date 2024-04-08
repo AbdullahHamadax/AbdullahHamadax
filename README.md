@@ -3,8 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+I'm+Abdullah+Hamada;)](https://git.io/typing-svg)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdullahHamadax&label=Profile%20views&color=0e75b6&style=flat" alt="AbdullahHamadax" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AbdullahHamadax&theme=dark_lover" alt="AbdullahHamadax" /></a> </p>
 
 - 🔭 I’m currently working on **Web Projects**
