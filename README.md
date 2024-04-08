@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on **Web Projects**
 - 🌱 I’m currently learning **Web Development**
 - 💬 Ask me about **Tech**
-- ⚡ Fun fact **C++ is horrible**
+- ⚡ Fun fact, **C++ is horrible**
 - 🔧 I'll keep updating this README whenever I learn new tech
 
 </div><h3 align="left">Connect with me:</h3>
