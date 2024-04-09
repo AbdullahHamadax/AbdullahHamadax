@@ -48,7 +48,7 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdullahHamadax&theme=2077" height="180em" />
 </div>
  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Leetcode</h3>
 
 <div align="center">
     <img src="https://leetcard.jacoblin.cool/ItzAbood?theme=dark&font=Gafata&ext=heatmap" />
