@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AbdullahHamadax&theme=darkhub" alt="AbdullahHamadax" /></a> </p>
 
 
-💡 I'm a full-stack learner and computer scientist.
+<p>💡 I'm a full-stack learner and computer scientist.</p>
 🔎 I'm interested in multiple topics, spanning from Cybersecurity to Quantum Computing.
 
 </div><h3 align="left">Connect with me:</h3>
