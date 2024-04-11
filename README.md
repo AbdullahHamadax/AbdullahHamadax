@@ -31,6 +31,9 @@
   </a>
 </p>
 
+![My Discord](https://discord-readme-badge.vercel.app/api?id=<307236749782941707>)
+
+
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahHamadax&layout=compact&theme=dark" alt=AbdullahHamadax />
 
