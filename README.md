@@ -31,7 +31,7 @@
   </a>
 </p>
 
-![kennygititdone](https://discord-readme-badge.vercel.app/api?id=<307236749782941707>)
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:307236749782941707)
 
 
 <h3 align="left">Stars</h3>
