@@ -31,7 +31,7 @@
   </a>
 </p>
 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=<839432085856583730>)
+![My Discord](https://discord-readme-badge.vercel.app/api?id=<307236749782941707>)
 
 
 <h3 align="left">Stars</h3>
