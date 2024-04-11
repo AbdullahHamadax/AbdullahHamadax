@@ -4,11 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdullah+Hamada!;" />
 </h1>
 
+<p>💡 I'm a full-stack learner and computer scientist.</p>
+🔎 I'm interested in multiple topics, spanning from Cybersecurity to Quantum Computing.
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AbdullahHamadax&theme=darkhub" alt="AbdullahHamadax" /></a> </p>
 
 
-<p>💡 I'm a full-stack learner and computer scientist.</p>
-🔎 I'm interested in multiple topics, spanning from Cybersecurity to Quantum Computing.
 
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
