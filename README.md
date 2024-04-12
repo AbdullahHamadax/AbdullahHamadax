@@ -6,6 +6,7 @@
 
 - <p>💡 I'm a full-stack learner and computer scientist.</p>
 -🔎 I'm interested in multiple topics, spanning from Cybersecurity to Quantum Computing.
+<br>
 -🧠 Currently learning HTML, Javascript, CSS, Python, DSA.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
