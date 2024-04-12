@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdullah+Hamada!;" />
 </h1>
 
-- 💡 I'm a full-stack learner and computer scientist.
+- 💡  I'm a full-stack learner and computer scientist.
 - 🔎 I'm interested in multiple topics, spanning from Cybersecurity to Quantum Computing.
 - 🧠 Currently learning HTML, Javascript, CSS, Python, DSA.
 
