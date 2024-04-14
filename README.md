@@ -33,11 +33,10 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h3 align="center">Discord Status</h3>
 
-<div align=center>
 [![Discord Presence](https://lanyard.cnrad.dev/api/307236749782941707)](https://discord.com/users/307236749782941707)
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
