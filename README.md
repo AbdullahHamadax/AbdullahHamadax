@@ -14,23 +14,38 @@
 
 
 
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abdallah-hamada-649133252" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="abdallah-hamada-649133252" height="30" width="40" /></a><a href="https://www.leetcode.com/ItzAbood" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="ItzAbood" height="30" width="40" /></a><a href="https://codeforces.com/profile/ItzAbdullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codeforces.svg" alt="ItzAbdullah" height="30" width="40" /></a></p>
+<div align="center">
+  <h3>Connect with me:</h3>
+  <p>
+    <a href="https://linkedin.com/in/abdallah-hamada-649133252" target="blank">
+      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="abdallah-hamada-649133252" height="30" width="40" />
+    </a>
+    <a href="https://www.leetcode.com/ItzAbood" target="blank">
+      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="ItzAbood" height="30" width="40" />
+    </a>
+    <a href="https://codeforces.com/profile/ItzAbdullah" target="blank">
+      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codeforces.svg" alt="ItzAbdullah" height="30" width="40" />
+    </a>
+  </p>
+</div>
 
-<h3 align="left">Languages-Frameworks⚒</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python" />
-  </a>
-</p>
+<div align="center">
+  <h3>Languages-Frameworks⚒</h3>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python" />
+    </a>
+  </p>
+</div>
 
-<h3 align="left">Tools</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,discord,idea,linux,vercel,vscode" />
-  </a>
-</p>
+<div align="center">
+  <h3>Tools</h3>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,discord,idea,linux,vercel,vscode" />
+    </a>
+  </p>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
