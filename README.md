@@ -39,7 +39,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="left">Stats</h3>
+<h3 align="center">Stats</h3>
 
 <div align=center>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahHamadax&layout=compact&theme=dark" alt=AbdullahHamadax />
