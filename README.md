@@ -40,7 +40,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahHamadax&layout=compact&theme=dark" alt=AbdullahHamadax />
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahHamadax&layout=compact&theme=dark" alt=AbdullahHamadax />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=AbdullahHamadax&show_icons=true&locale=en&theme=dark" alt="AbdullahHamadax" /></p>
 
