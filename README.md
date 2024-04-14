@@ -15,7 +15,7 @@
 
 
 <div align="center">
-  <h3>Connect with me:</h3>
+  <h3>Where you can find me:</h3>
   <p>
     <a href="https://linkedin.com/in/abdallah-hamada-649133252" target="blank">
       <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="abdallah-hamada-649133252" height="30" width="40" />
