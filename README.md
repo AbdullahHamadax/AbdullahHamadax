@@ -4,9 +4,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdullah+Hamada!;" />
 </h1>
 
-- 💡  I'm a full-stack learner and computer scientist.
-- 🔎 I'm interested in multiple topics, spanning from Cybersecurity to Quantum Computing.
-- 🧠 Currently learning HTML, JS, CSS, Python, DSA.
+<div align="center">
+  <ul>
+    <li>💡 I'm a full-stack learner and computer scientist.</li>
+    <li>🔎 I'm interested in multiple topics, spanning from Cybersecurity to Quantum Computing.</li>
+    <li>🧠 Currently learning HTML, JS, CSS, Python, DSA.</li>
+  </ul>
+</div>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
