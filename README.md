@@ -5,11 +5,9 @@
 </h1>
 
 <div align="center">
-  <ul>
-    <li>💡 I'm a full-stack learner and computer scientist.</li>
-    <li>🔎 I'm interested in multiple topics, spanning from Cybersecurity to Quantum Computing.</li>
-    <li>🧠 Currently learning HTML, JS, CSS, Python, DSA.</li>
-  </ul>
+    <p>💡 I'm a full-stack learner and computer scientist.</p>
+    <p>🔎 I'm interested in multiple topics, spanning from Cybersecurity to Quantum Computing.</p>
+    <p>🧠 Currently learning HTML, JS, CSS, Python, DSA.</p>
 </div>
 
 
