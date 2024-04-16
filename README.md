@@ -55,9 +55,9 @@
 <div align="center">
 <h3>DevCard</h3>
 <p>
- <a href="https://app.daily.dev/itzabood"><img src="https://api.daily.dev/devcards/v2/0enpTBDbpbiszlWxnSIzb.png?type=default&r=hhy" width="356" alt="Abdallah Hamada's Dev Card"/></a>
+<a href="https://app.daily.dev/itzabood"><img src="https://api.daily.dev/devcards/v2/0enpTBDbpbiszlWxnSIzb.png?type=wide&r=hhy" width="652" alt="Abdallah Hamada's Dev Card"/></a>
 </p>
-
+</div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
