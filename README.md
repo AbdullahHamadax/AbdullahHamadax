@@ -55,7 +55,7 @@
 <div align="center">
 <h3>DevCard</h3>
 <p>
- <a href="https://app.daily.dev/itzabood"><img src="./devcard.png" width="356" alt="Abdallah's Dev Card"/></a>
+ <a href="https://app.daily.dev/francescociulla"><img src="./devcard.png?type=wide&r=t94" width="652" alt="Francesco's Dev Card"/></a>
 </p>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
