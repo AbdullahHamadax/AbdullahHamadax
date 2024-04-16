@@ -31,6 +31,7 @@
     </a>
    <a href="https://www.codedex.io/@Aboodx" target="blank">
     <img src= "https://www.codedex.io/images/codedex-bot-logo-compressed.gif" alt="Aboodx" height="30" width="40"/>
+   </a>
   </p>
 </div>
 
