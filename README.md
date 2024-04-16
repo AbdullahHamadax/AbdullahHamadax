@@ -30,7 +30,7 @@
       <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codeforces.svg" alt="ItzAbdullah" height="30" width="40" />
     </a>
    <a href="https://www.codedex.io/@Aboodx" target="blank">
-    <img src= "https://www.codedex.io/images/codedex-bot-logo-compressed.gif" alt="Aboodx" height="30" width="40"/>
+    <img src= "https://avatars.githubusercontent.com/u/105237839?s=200&v=4" alt="Aboodx" height="30" width="40"/>
    </a>
   </p>
 </div>
