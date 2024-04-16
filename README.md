@@ -33,7 +33,7 @@
 </div>
 
 <div align="center">
-  <h3>Languages-Frameworks⚒</h3>
+  <h3>Languages-Frameworks</h3>
   <p>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python" />
@@ -42,7 +42,7 @@
 </div>
 
 <div align="center">
-  <h3>Tools⚒</h3>
+  <h3>Tools</h3>
   <p>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=git,discord,idea,linux,vercel,vscode" />
