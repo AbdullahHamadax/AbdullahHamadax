@@ -7,7 +7,7 @@
 <div align="center">
     <p>💡 I'm a full-stack learner and computer scientist.</p>
     <p>🔎 I'm interested in multiple topics, spanning from Cybersecurity to Quantum Computing.</p>
-    <p>🧠 Currently learning HTML, JS, CSS, Python, DSA.</p>
+    <p>🧠 Currently learning HTML, JS, CSS, DSA.</p>
 </div>
 
 
