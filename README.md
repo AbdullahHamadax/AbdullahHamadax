@@ -8,6 +8,7 @@
     <p>💡 I'm a full-stack learner and computer scientist.</p>
     <p>🔎 I'm interested in multiple topics, spanning from Cybersecurity to Quantum Computing.</p>
     <p>🧠 Currently learning HTML, JS, CSS, DSA.</p>
+    <p>🛠️ I'm currently working on [Frontend Mentor projects!](https://www.frontendmentor.io/home)</p>
 </div>
 
 
