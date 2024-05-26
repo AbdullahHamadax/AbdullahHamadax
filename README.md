@@ -34,10 +34,10 @@
 </div>
 
 <div align="center">
-  <h3>Learnt Languages</h3>
+  <h3>Generally Learnt Languages/Frameworks</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,cpp,html,css" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,java" />
     </a>
   </p>
 </div>
@@ -46,7 +46,7 @@
   <h3>Current Tech Stack</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,tailwind" />
+      <img src="https://skillicons.dev/icons?i=html,css,tailwind" />
     </a>
   </p>
 </div>
