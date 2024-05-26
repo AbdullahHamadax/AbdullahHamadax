@@ -34,10 +34,19 @@
 </div>
 
 <div align="center">
-  <h3>Languages-Frameworks</h3>
+  <h3>Learnt Languages</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,html,css" />
+    </a>
+  </p>
+</div>
+
+<div align="center">
+  <h3>Current Tech Stack</h3>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,tailwind" />
     </a>
   </p>
 </div>
