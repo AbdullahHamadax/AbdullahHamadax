@@ -52,7 +52,7 @@
 </div>
 
 <div align="center">
-  <h3>Tools</h3>
+  <h3>Tools/OS</h3>
   <p>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=git,idea,linux,vercel,vscode" />
