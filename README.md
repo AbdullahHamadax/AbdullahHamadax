@@ -37,7 +37,7 @@
   <h3>Generally Learnt Languages/Frameworks</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,java" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript" />
     </a>
   </p>
 </div>
