@@ -70,7 +70,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <h3>Discord Status</h3>
+  <h3>Discord</h3>
   <a href="https://discord.com/users/307236749782941707">
     <img src="https://lanyard.cnrad.dev/api/307236749782941707" alt="Discord Presence">
   </a>
