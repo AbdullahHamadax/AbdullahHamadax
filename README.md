@@ -55,7 +55,7 @@
   <h3>Tools/OS</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,idea,linux,vercel,vscode" />
+      <img src="https://skillicons.dev/icons?i=git,idea,linux,vercel,vscode,windows" />
     </a>
   </p>
 </div>
