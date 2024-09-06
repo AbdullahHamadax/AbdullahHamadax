@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
-    <p>💡 I'm a front-end developer</p>
+    <p>💡 I'm a junior front-end developer</p>
     <p>🔎 I'm interested in multiple topics, spanning from Cybersecurity to Quantum Computing.</p>
     <p>🧠 Currently learning HTML, JS, TailwindCSS, DSA.</p>
     <p>🛠️ I'm currently working on <a href="https://github.com/AbdullahHamadax/front-end-mentor">Frontend Mentor projects!</a></p>
