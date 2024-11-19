@@ -8,7 +8,7 @@
     <p>💡 I'm a junior front-end developer</p>
     <p>🔎 I'm interested in multiple topics, spanning from Cybersecurity to Quantum Computing.</p>
     <p>🧠 Currently learning HTML, JS, TailwindCSS.</p>
-    <p>🛠️ I'm currently working on <a href="https://github.com/AbdullahHamadax/front-end-mentor">Frontend Mentor projects!</a></p>
+    <p>🛠️ I'm usually working on <a href="https://github.com/AbdullahHamadax/front-end-mentor">Frontend Mentor</a> and <a href="https://devchallenges.io/">Dev Challenges projects</a></p>
 </div>
 
 
