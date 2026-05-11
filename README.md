@@ -38,7 +38,7 @@
   <h3>Generally Learnt Languages/Frameworks</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,cpp,python,java,php" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,python,java,php,mysql,postgresql" />
     </a>
   </p>
 </div>
@@ -47,7 +47,7 @@
   <h3>Current Tech Stack</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript" />
+      <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react" />
     </a>
   </p>
 </div>
@@ -56,7 +56,7 @@
   <h3>Tools/OS</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,idea,linux,vercel,vscode,windows" />
+      <img src="https://skillicons.dev/icons?i=git,idea,ubuntu,arch,vercel,vscode,windows,neovim" />
     </a>
   </p>
 </div>
